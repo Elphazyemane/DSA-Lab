@@ -1,8 +1,3 @@
-// Evaluate Decision leetcode 399
-
-//We are given equation like a/b = k, we answer queries using for other 
-//          division using graph-based ratio.
-
 class Solution {
     public:
         void DFS(string place, string destination,unordered_map<string, vector<pair<string, double>>>& graph,

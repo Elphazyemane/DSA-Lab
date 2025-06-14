@@ -1,8 +1,3 @@
-// Nearest exit from entrance in maze leetcode 1926
-
-//Here from starting cell in maze, we find the minimum teps to reach any exit
-//              (an open cell in the boundary, excluding the start)
-
 class Solution {
 public:
     int nearestExit(vector<vector<char>>& maze, vector<int>& e) {

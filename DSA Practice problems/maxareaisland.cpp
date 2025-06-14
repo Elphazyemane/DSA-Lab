@@ -1,7 +1,3 @@
-// Max Area of Island leetcode 695
-
-// We compute the largest connected region of 1's(land) in 2D grid.
-
 class Solution {
 public:
     int maxAreaOfIsland(vector<vector<int>>& grid) {

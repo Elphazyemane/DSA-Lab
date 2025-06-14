@@ -1,8 +1,3 @@
-// Minesweeper Leetcode 
-
-// From given board on a click, we reveal squares as Minesweeper rules
-//          which is expanding blank regions or hit mine.
-
 class Solution {
     public:
         vector<int>dirX={-1,0,1,-1,1,-1,0,1};

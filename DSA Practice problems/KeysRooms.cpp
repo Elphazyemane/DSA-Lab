@@ -1,8 +1,3 @@
-//Keys and Rooms leetcode 841
-
-// The listed rooms contain keys to other rooms, we'll determine if we can visit each 
-//          room starting from 0
-
 class Solution {
 public:
     bool canVisitAllRooms(vector<vector<int>>& rooms) {

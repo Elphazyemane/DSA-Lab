@@ -1,8 +1,3 @@
-//Employee Importance Leetcode 690
-
-//Suming the importance value of an employee and all their subordinates in a company hierachy
-
-
 class Solution {
 public:
      int getImportance(vector<Employee*> employees, int id) {

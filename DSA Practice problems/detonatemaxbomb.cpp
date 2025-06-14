@@ -1,8 +1,3 @@
-// Detonate the maximum Bomb Leetcode 2101
-
-// Each Bomb can trigger others with its range, we find the maximum bombs we can detonate 
-//          starting from a single bomb
-
 class Solution {
 public:
     int detonate(vector<vector<int>>& bombs, vector<bool>& detonated, int i) {

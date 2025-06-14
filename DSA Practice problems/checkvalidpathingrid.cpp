@@ -1,8 +1,3 @@
-// Check if there is a valid path in a grid leetcode 1391
-
-// Each cells have one of six street shapes, we determine if there is a path from the 
-//              top left to the bottom right
-
 class Solution {
     public:
         bool hasValidPath(vector<vector<int>>& grid) {

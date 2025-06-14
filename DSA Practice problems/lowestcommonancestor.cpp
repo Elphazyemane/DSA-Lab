@@ -1,8 +1,3 @@
-// Lowest common of Ancestor of Deepest leaves leetcode 1123
-
-//We're finding the lowest node in a binary tree, that's an ancestor of all 
-//              the deepest leaves
-
 class Solution{
     TreeNode *resultNode;
     int ancestor;

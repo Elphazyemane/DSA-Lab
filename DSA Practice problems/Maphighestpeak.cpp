@@ -1,8 +1,3 @@
-// Map of highest peak leetcode 1765
-
-//We'll assign heights to cell so the water spreads outward 
-//      and maximizing the minimum height difference
-
 class Solution {
 public:
     vector<vector<int>> highestPeak(vector<vector<int>>& water) {
